@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37713ee2-c56e-4e04-9a5d-510134c153e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java_tutorials" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WOKFfOXlcRR4rJO4h8RbB0JE2q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/harrietkim/javatutorials/intellij" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harrietkim.javatutorials.intellij.HelloWorld" />
+      <module name="java_tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrietkim.javatutorials.intellij.Node" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList$LinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harrietkim.javatutorials.intellij.LinkedList$LinkedListNode" />
+      <module name="java_tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrietkim.javatutorials.intellij.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harrietkim.javatutorials.intellij.LinkedListNode" />
+      <module name="java_tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrietkim.javatutorials.intellij.Node" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harrietkim.javatutorials.intellij.SinglyLinkedList" />
+      <module name="java_tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrietkim.javatutorials.intellij.Node" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedList$LinkedListNode" />
+        <item itemvalue="Application.LinkedListNode" />
+        <item itemvalue="Application.SinglyLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37713ee2-c56e-4e04-9a5d-510134c153e7" name="Default Changelist" comment="" />
+      <created>1579015098997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579015098997</updated>
+      <workItem from="1579015102129" duration="20137000" />
+      <workItem from="1579489324738" duration="2068000" />
+      <workItem from="1579491506311" duration="3032000" />
+      <workItem from="1580750887120" duration="2122000" />
+      <workItem from="1580755728514" duration="2155000" />
+      <workItem from="1580913075632" duration="5620000" />
+      <workItem from="1580938577528" duration="741000" />
+      <workItem from="1580940168812" duration="1564000" />
+      <workItem from="1580942678150" duration="28000" />
+      <workItem from="1580942974793" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1824" y="163" key="#Notifications" timestamp="1579016584520">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1824" y="163" key="#Notifications/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1579016584520" />
+    <state x="1824" y="163" width="809" height="666" key="#Project_Structure" timestamp="1579016181254">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1824" y="163" width="809" height="666" key="#Project_Structure/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1579016181254" />
+    <state x="1688" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580926291738">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1688" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1580926291738" />
+    <state x="2023" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1579491633643">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="2023" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1579491633643" />
+    <state x="1572" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579483709587">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1572" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1579483709587" />
+    <state width="738" height="184" key="GridCell.Tab.0.bottom" timestamp="1580942600736">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state width="738" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1580942600736" />
+    <state width="738" height="184" key="GridCell.Tab.0.center" timestamp="1580942600735">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state width="738" height="184" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1580942600735" />
+    <state width="738" height="184" key="GridCell.Tab.0.left" timestamp="1580942600735">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state width="738" height="184" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1580942600735" />
+    <state width="738" height="184" key="GridCell.Tab.0.right" timestamp="1580942600736">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state width="738" height="184" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1580942600736" />
+    <state x="1713" y="213" key="SettingsEditor" timestamp="1580943012789">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1713" y="213" key="SettingsEditor/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1580943012789" />
+    <state x="1959" y="319" width="710" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1579362009328">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1959" y="319" width="710" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1579362009328" />
+    <state x="1889" y="228" key="run.anything.popup" timestamp="1579015176966">
+      <screen x="1280" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1889" y="228" key="run.anything.popup/0.23.1280.777/1280.23.1680.1027@1280.23.1680.1027" timestamp="1579015176966" />
+  </component>
+</project>
